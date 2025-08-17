@@ -3,7 +3,7 @@ layout:      post
 title:       "第一次博客尝试"
 author:      "summery"
 header-style:  text
-catalog：      true
+catalog:      true
 tags:
   - web
   - JavaScipt
