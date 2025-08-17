@@ -2,7 +2,7 @@
 layout:      post
 title:       "第一次博客尝试"
 author:      "summery"
-header-style：  text
+header-style:  text
 catalog：      true
 tags:
   - web
